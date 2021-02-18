@@ -2,15 +2,27 @@ HTML5 Formatting Elements
 
 HTML Formatting Elements
 
-- <b> - Create bold text
-- <strong> - Make an important text
-- <i> -  Make italic text
-- <em> -  Make emphases to text
-- <mark> - Marks text
-- <small> - Make smaller text
-- <del> - Deleted text
-- <ins> - Inserted text
-- <sub> - Subscript text
-- <sup> - Superscript text
-- <pre> - Preserve text space
-- <u> -To underline
+- ````<b>```` 
+- <b> - Create bold text </b>
+- ````<strong>```` 
+- <strong> - Make an important text </strong>
+- ````<i>````
+-  <i> -  Make italic text </i>
+- ````<em>````
+-  <em> -  Make emphases to text </em>
+- ````<mark>```` 
+  <mark> - Marks text </mark>
+- ````<small>```` 
+- <small> - Make smaller text </small>
+- ````<del>```` 
+- <del> - Deleted text </del>
+- ````<ins>```` 
+- <ins> - Inserted text </ins>
+- ````<sub>```` 
+- <sub> - Subscript text </sub>
+- ````<sup>```` 
+- <sup> - Superscript text </sup>
+- ````<pre>```` 
+- <pre> - Preserve text space </pre>
+- ````<u>```` 
+<u> -To underline </u>
