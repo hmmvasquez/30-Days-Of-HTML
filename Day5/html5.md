@@ -25,4 +25,4 @@ HTML Formatting Elements
 - ````<pre>```` 
 - <pre> - Preserve text space </pre>
 - ````<u>```` 
-<u> -To underline </u>
+- <u> -To underline </u>
