@@ -1,5 +1,5 @@
 List of some semantic elements:
-<article>
+````<article>
  <aside>
  <details>
  <figcaption>
@@ -12,3 +12,4 @@ List of some semantic elements:
  <section>
  <summary>
  <time>
+  ````
